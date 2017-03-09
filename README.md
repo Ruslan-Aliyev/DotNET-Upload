@@ -2,9 +2,9 @@
 
 ## Upload Pictures & Redisplay
 
-![](https://raw.githubusercontent.com/atabegruslan/DotNET-Upload/master/Illustrations/net_upload1.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/DotNET-Upload/master/Illustrations/net_upload1.PNG)
 
-![](https://raw.githubusercontent.com/atabegruslan/DotNET-Upload/master/Illustrations/net_upload2.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/DotNET-Upload/master/Illustrations/net_upload2.PNG)
 
 ```
 using System;
