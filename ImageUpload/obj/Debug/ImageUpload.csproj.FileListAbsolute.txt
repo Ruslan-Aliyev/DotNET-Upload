@@ -1,0 +1,4 @@
+c:\users\victorious\documents\visual studio 2010\Projects\ImageUpload\ImageUpload\bin\ImageUpload.dll
+c:\users\victorious\documents\visual studio 2010\Projects\ImageUpload\ImageUpload\bin\ImageUpload.pdb
+c:\users\victorious\documents\visual studio 2010\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.dll
+c:\users\victorious\documents\visual studio 2010\Projects\ImageUpload\ImageUpload\obj\Debug\ImageUpload.pdb
